@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Welcome to React World!
+          React - Material UI feature
         </a>
       </header>
     </div>
